@@ -1,5 +1,9 @@
-3<b> titulo </b>
+<b> probando ir atras en commits </b>
 
-probando cambios 3
+git reset (borra los ultimos commits)
+y
+git revert (mantiene los commits erroneos en el historial)
 
-cuarto y ultimo commit
+<i>- git checkout con los commits en realidad solo deja verlos (mueve el HEAD)
+
+- git restore es cuando en local quieres quitar un archivo del stage</i>
